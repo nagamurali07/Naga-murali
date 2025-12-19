@@ -1,0 +1,15 @@
+<Html>
+<head>
+<title> order list and unorder list
+</head>
+<body>
+<ol type="i">
+<li> India</li>
+<li> Russia</i>
+</ol>
+<ul type="circle">
+<li> India</li>
+<li> Pak</li>
+</ul>
+</body>
+</html>
